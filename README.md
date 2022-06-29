@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adam-druckman
+- 👀 I’m interested in Education Data and Policy
+- 🌱 I’m currently learning advanced R, STATA, and Tableau techniques
+- 📫 How to reach me adamdruckman [@] gmail
